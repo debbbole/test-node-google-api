@@ -4,10 +4,10 @@ var IAP = require('in-app-purchase');
 IAP.config({
     verbose: true,
     googlePublicKeyPath: "./google/",
-    googleAccToken: "ya29.GlsKBMw-Y_WEuLXchLMiY_W0E08pJDSNjOhrPwGoOYhF8jO3hVRo9VkH2UzrDAb3vfPaj3ELM-xmSsuDxhYRfvjNh_uqe107vNRxq40LnivfRLyKdvw6Ipf-ykjV",
-    googleRefToken: "1/dGw63M7h2uqp8AjkbUUH6sSjkIevkvE1Rh5R0kksmf0",
-    googleClientID: "772074648114-2r7kffgjl7n6ha10a9lb5tniv7u57ilj.apps.googleusercontent.com",
-    googleClientSecret: "9dxG-4uE9Uj0HQlXLbrveMRK"
+    googleAccToken: "ya29.XXX_CCC_DDD",
+    googleRefToken: "1/FFFFFF",
+    googleClientID: "XZSXZSXZS.apps.googleusercontent.com",
+    googleClientSecret: "SSS"
 });
 
 

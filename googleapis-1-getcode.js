@@ -2,8 +2,8 @@ var google = require('googleapis');
 var OAuth2 = google.auth.OAuth2;
 
 var oauth2Client = new OAuth2(
-  "772074648114-2r7kffgjl7n6ha10a9lb5tniv7u57ilj.apps.googleusercontent.com",
-  "9dxG-4uE9Uj0HQlXLbrveMRK",
+  "XXX.apps.googleusercontent.com",
+  "ZZZ",
   "https://developers.google.com/oauthplayground"
 );
 
@@ -27,6 +27,6 @@ console.log(url);
 
 /* output:
 
-https://developers.google.com/oauthplayground/?code=4/jDwy6y2SIzPdNbEoWqwtz7tkeYRd5cSkR3UcxFsBGR0#
+https://developers.google.com/oauthplayground/?code=4/CCCCCCC
 
 */

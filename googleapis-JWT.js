@@ -41,7 +41,7 @@ jwtClient.authorize(function (err, tokens) {
         auth: jwtClient
     }
     var paramsApk = {
-        packageName: 'it.cnosfap.v1',
+        packageName: 'com.test',
         editId: 1
     };
     var optionsApk = {};
